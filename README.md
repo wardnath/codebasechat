@@ -1,3 +1,5 @@
+[![Build and Push Docker Image](https://github.com/wardnath/codebasechat/actions/workflows/docker-image.yml/badge.svg)](https://github.com/wardnath/codebasechat/actions/workflows/docker-image.yml)
+
 # CodebaseChat
 _Made in London by [Context.ai](https://context.ai?utm_source=codebasechat&utm_medium=github)_
 
